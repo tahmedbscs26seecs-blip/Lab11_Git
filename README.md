@@ -1,4 +1,4 @@
-# Storage Estimator
+# Storage Estimator - Main Version
 
 ## Purpose
 A small Python program from CS-117 Lab 10. You enter a storage size in gigabytes (GB) and it converts it to megabytes (MB), kilobytes (KB) and bytes, using 1 GB = 1024 MB, 1 MB = 1024 KB and 1 KB = 1024 bytes.
